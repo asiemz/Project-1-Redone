@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-11-07
-img: lesson1a.png
+img: giticon.png
 alt: image-alt
 project-date: November 2022
 description: 

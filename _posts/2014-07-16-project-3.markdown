@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2022-11-07
-img: Lesson 2 button.png
+img: workflowicon.png
 alt: image-alt
 project-date: November 2022
 description: 

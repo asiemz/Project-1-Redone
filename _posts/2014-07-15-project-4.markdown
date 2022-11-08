@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2022-11-07
-img: lesson 3.png
+img: react2 (1).png
 alt: image-alt
 project-date: November 2022
 description: 
