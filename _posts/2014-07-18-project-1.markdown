@@ -1,13 +1,78 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2022-11-07
+img: resume icon (1).png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: November 2022
 
 ---
 
-Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+# Adam Siemionkowicz
+
+[siemionkowicza@gmail.com](mailto:siemionkowicza@gmail.com) 
+
+## Professional Experience
+
+### Heller Industries	  
+
+Software Engineering Intern                                                                                                                                May 2022 – August 2022
+
+◦	Worked on developing an installer for a vertical oven using InnoSetup.
+◦	Created a Jenkins Pipeline for the vertical oven installer.
+◦	Helped complete STIG/SCAP testing on Heller ovens.
+◦	Assisted in the process of updating software licenses on Heller ovens.
+
+
+
+### Stop and Shop	        
+
+Sales Associate                                                                                                                                         January 2021 - March 2021
+
+◦	Greeted customers of the store and helped them through the process of purchasing items.
+◦	Assisted in stocking the store shelves and maintaining inventory.
+◦	Cleaned and maintained the aisles of the store.
+
+
+
+### American Pool	       
+
+Lifeguard                                                                                                                                               May 2018 – September 2019
+
+◦	Was responsible for monitoring active swimmers.
+◦	Cleaned the pool area according to the standards of the New Jersey Department of Health.
+◦	Maintained safe levels of water chemicals as defined in N.J. Admin. Code § 8:26-7.8.
+◦	Assisted with the general needs of pool patrons.
+
+
+
+## Education 
+
+### Marist College
+Expected May 2024
+
+Bachelor of Science in Cybersecurity; Minor in Information Systems & Information Technology
+◦	GPA: 3.221/4.00 
+
+## Relevant Coursework and Projects
+•	Software Development Courses
+◦	Designed, developed, debugged, tested, and documented various programs using Java, Python, MySQL, HTML/CSS, and JavaScript.
+◦	Learned fundamental concepts of software development life cycle.
+◦	Developed and normalized relational databases in PostgreSQL and Oracle SQL Developer.
+
+•	Cybersecurity Courses
+◦	Learned about internetworking and modeled a network in Cisco Packet Tracer.
+◦	Used various digital forensics tools such as Paraben E3, Autopsy, and Disk Digger.
+◦	Developed a familiarity with Kali Linux and the Linux OS.
+
+•	Projects
+◦	Received certification in HTML and CSS on Codecademy Pro.
+◦	Working on Jr. Penetration Tester pathway in TryHackMe.
+
+## Additional Activities
+•	Activities: Marist College Club Hockey.
+
+•	Spoken Languages: Bilingual in English and Polish.
+
+
+
