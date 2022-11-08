@@ -9,3 +9,9 @@ client: Start Bootstrap
 category: Web Development
 description: 
 ---
+
+Lesson 1
+
+Git and Github
+
+In Lesson 1 we learned about Git and Github and applied this knowledge to creating and editing repositories.

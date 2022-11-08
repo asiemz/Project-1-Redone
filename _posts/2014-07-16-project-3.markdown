@@ -9,3 +9,9 @@ client: Start Bootstrap
 category: Web Development
 description: 
 ---
+
+Lesson 2
+
+Workflow
+
+In this lesson we learned about managing workflow in our IDE of choice.
