@@ -12,4 +12,4 @@ Lesson 2
 
 Workflow
 
-In this lesson we learned about managing workflow in our IDE of choice.
+In this lesson we learned about managing workflow in our IDE of choice. One of the things developers must do is find an IDE that suits their purposes. Visual Studio Code is an example of an IDE that is very customizable and one can easily work with HTML, CSS, and Javascript among other languages. Developers must also work well in a team and be able to effectively manage truck based development, feature branches, and git flow.

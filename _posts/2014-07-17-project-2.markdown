@@ -12,4 +12,4 @@ Lesson 1
 
 Git and Github
 
-In Lesson 1 we learned about Git and Github and applied this knowledge to creating and editing repositories.
+In Lesson 1 we learned about Git and Github and applied this knowledge to creating and editing repositories. Git is a very important version control system that is industry standard in the field of Software Development. Github offers a graphical user interface for Git and allows users to visualize the changes that have been made to their repositories.

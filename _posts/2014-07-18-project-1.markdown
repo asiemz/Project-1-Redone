@@ -16,7 +16,7 @@ project-date: November 2022
 
 ### Heller Industries	  
 
-Software Engineering Intern                                                                                                                                May 2022 – August 2022
+#### Software Engineering Intern                                                                                                                           May 2022 – August 2022
 
 ◦	Worked on developing an installer for a vertical oven using InnoSetup.
 ◦	Created a Jenkins Pipeline for the vertical oven installer.
@@ -27,7 +27,7 @@ Software Engineering Intern                                                     
 
 ### Stop and Shop	        
 
-Sales Associate                                                                                                                                         January 2021 - March 2021
+#### Sales Associate                                                                                                                                    January 2021 - March 2021
 
 ◦	Greeted customers of the store and helped them through the process of purchasing items.
 ◦	Assisted in stocking the store shelves and maintaining inventory.
@@ -37,7 +37,7 @@ Sales Associate                                                                 
 
 ### American Pool	       
 
-Lifeguard                                                                                                                                               May 2018 – September 2019
+#### Lifeguard                                                                                                                                          May 2018 – September 2019
 
 ◦	Was responsible for monitoring active swimmers.
 ◦	Cleaned the pool area according to the standards of the New Jersey Department of Health.
@@ -54,7 +54,7 @@ Expected May 2024
 Bachelor of Science in Cybersecurity; Minor in Information Systems & Information Technology
 ◦	GPA: 3.221/4.00 
 
-## Relevant Coursework and Projects
+### Relevant Coursework and Projects
 •	Software Development Courses
 ◦	Designed, developed, debugged, tested, and documented various programs using Java, Python, MySQL, HTML/CSS, and JavaScript.
 ◦	Learned fundamental concepts of software development life cycle.
@@ -69,7 +69,7 @@ Bachelor of Science in Cybersecurity; Minor in Information Systems & Information
 ◦	Received certification in HTML and CSS on Codecademy Pro.
 ◦	Working on Jr. Penetration Tester pathway in TryHackMe.
 
-## Additional Activities
+### Additional Activities
 •	Activities: Marist College Club Hockey.
 
 •	Spoken Languages: Bilingual in English and Polish.

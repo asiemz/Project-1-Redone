@@ -12,4 +12,4 @@ Frameworks
 
 Bootstrap
 
-In this lesson we learned about web frameworks such as bootstrap and Jekyll and why they are important for website development.
+In this lesson we learned about web frameworks such as Bootstrap and Jekyll and why they are important for website development. Frameworks are essentially prewritten code that allows a developer to have a standard for which to develop an application. There are dozens of web frameworks in existence and they all have their own advantages and disadvantages. This website utilises the Jekyll framework.
