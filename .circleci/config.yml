@@ -40,5 +40,5 @@ jobs:
 workflows:
     build-and-deploy:
       jobs:
-          # - build
+          - build
           - deploy
