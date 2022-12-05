@@ -15,6 +15,13 @@ jobs:
     steps:
       - checkout
       - run: ruby --version
+      - run:
+          name: Bundle Install
+          command: bundle check || bundle install
+      - run:
+          name: Jekyll build
+          command: bundle exec jekyll build
+
 
   deploy:
     machine:
