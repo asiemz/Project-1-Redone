@@ -22,7 +22,7 @@ jobs:
           name: Jekyll build
           command: bundle exec jekyll build
       - persist_to_workspace:
-          root: ./
+          root: /tmp
           paths:
             - _site
 
@@ -34,7 +34,7 @@ jobs:
     steps:
 
        - attach_workspace:
-            at: ./
+            at: /tmp
        - add_ssh_keys:
           fingerprints:
             - "9c:83:e7:68:61:a9:40:a9:03:8e:f9:3d:38:e7:82:e4"
