@@ -37,7 +37,7 @@ jobs:
             - "9c:83:e7:68:61:a9:40:a9:03:8e:f9:3d:38:e7:82:e4"
        
        - attach_workspace:
-            at: /home/circleci/project
+            at: ./
        
        - run:
             name: Deploy Over SSH
