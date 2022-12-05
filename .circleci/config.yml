@@ -41,6 +41,7 @@ jobs:
             at: ./
 
       - run:
+          Name: LS view
           command: ls -lah
 
        - run:
