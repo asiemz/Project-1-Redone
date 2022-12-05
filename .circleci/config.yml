@@ -40,6 +40,9 @@ jobs:
        - attach_workspace:
             at: ./
 
+      - run:
+          command: ls -lah
+
        - run:
             name: Deploy Over SSH
             command: |
