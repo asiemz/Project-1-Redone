@@ -43,7 +43,7 @@ jobs:
        - run:
             name: Deploy Over SSH
             command:
-              ssh -o StrictHostKeyChecking=no circleci@148.100.79.41 "sudo touch /tmp/testing.txt"
+              ssh -o StrictHostKeyChecking=no circleci@148.100.76.111 "sudo touch /tmp/testing.txt"
 
        - run:
             name: Deploy Over SCP
