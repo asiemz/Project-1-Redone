@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2022-12-05
-img: circ (1).png
+img: circ.png
 alt: image-alt
 project-date: December 2022
 description: 
