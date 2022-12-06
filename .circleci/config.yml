@@ -41,6 +41,11 @@ jobs:
             at: ./
 
        - run:
+            name: Deploy Over SSH
+            command:
+              ssh -o StrictHostKeyChecking=no circleci@148.100.79.41 "sudo touch /tmp/testing.txt"
+
+       - run:
             name: Deploy Over SCP
             command:
               scp -r ~/project/_site/ circleci@148.100.76.111:/home/circleci/project/_site
