@@ -42,8 +42,8 @@ jobs:
 
        - run:
             name: Deploy Over SCP
-            command: |
-               scp -r ~/project/_site/ circleci@148.100.76.111:"/home/circleci/project/_site"
+            command:
+              scp -r /home/circleci/project/_site/ circleci@148.100.76.111:/home/circleci/project/_site
               
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
