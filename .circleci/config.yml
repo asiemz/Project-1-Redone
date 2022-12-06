@@ -41,7 +41,7 @@ jobs:
             at: ./
 
        - run:
-            name: Deploy Over SSH
+            name: Deploy Over SCP
             command: |
               scp -r ~/project/_site/ circleci@148.100.76.111:"/var/www/mysite/_site"
               
