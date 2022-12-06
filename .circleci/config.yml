@@ -43,7 +43,7 @@ jobs:
        - run:
             name: Deploy Over SCP
             command: |
-              sudo scp -r ~/project/_site/ circleci@148.100.76.111:"/var/www/mysite/_site"
+              sudo scp -r ~/project/_site/ circleci@148.100.76.111:"/home/circleci/project/_site"
               
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
